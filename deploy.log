@@ -160,3 +160,31 @@ Your branch is up to date with 'origin/Deployment'.
 M	deploy.log
 Your branch is up to date with 'origin/Deployment'.
 [Tue May 13 07:04:02 PM CST 2025] There is no changes on Deployment branch
+Your branch is ahead of 'origin/Deployment' by 1 commit.
+  (use "git push" to publish your local commits)
+[Tue May 13 07:05:01 PM CST 2025] Updating Deployment...
+From https://github.com/MelissaCarvajalCharpentier0/SO-ServicioDeLinux
+ * branch            Deployment -> FETCH_HEAD
+Already up to date.
+/home/meli/expressExample/deploy.sh: line 17: /bin/: Is a directory
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 07:06:02 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 07:07:01 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 07:08:03 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 07:09:02 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 07:10:01 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 07:11:02 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 07:12:01 PM CST 2025] There is no changes on Deployment branch
