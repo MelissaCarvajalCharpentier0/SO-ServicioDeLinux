@@ -14,7 +14,7 @@ REMOTE=$(git rev-parse origin/Deployment)
 if [ "$LOCAL" != "$REMOTE" ]; then
     echo "[`date`] Updating Deployment..." >> deploy.log
     git pull origin Deployment >> deploy.log
-    sudo /bin/ systemctl restart app.service
+    /bin/ systemctl restart app.service
 else
     echo "[`date`] There is no changes on Deployment branch" >> deploy.log
 fi
