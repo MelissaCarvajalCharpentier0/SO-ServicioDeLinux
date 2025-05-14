@@ -33,3 +33,130 @@ Your branch is up to date with 'origin/Deployment'.
 [Tue May 13 06:37:01 PM CST 2025] There is no changes on Deployment branch
 Your branch is up to date with 'origin/Deployment'.
 [Tue May 13 06:38:02 PM CST 2025] There is no changes on Deployment branch
+A	deploy.log
+A	deploy.sh
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:39:01 PM CST 2025] There is no changes on Deployment branch
+A	deploy.log
+A	deploy.sh
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:40:02 PM CST 2025] There is no changes on Deployment branch
+A	deploy.log
+A	deploy.sh
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:41:01 PM CST 2025] There is no changes on Deployment branch
+A	deploy.log
+A	deploy.sh
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:42:02 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is ahead of 'origin/Deployment' by 1 commit.
+  (use "git push" to publish your local commits)
+[Tue May 13 06:43:01 PM CST 2025] Updating Deployment...
+From https://github.com/MelissaCarvajalCharpentier0/SO-ServicioDeLinux
+ * branch            Deployment -> FETCH_HEAD
+Already up to date.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+M	deploy.log
+Your branch is ahead of 'origin/Deployment' by 1 commit.
+  (use "git push" to publish your local commits)
+[Tue May 13 06:44:02 PM CST 2025] Updating Deployment...
+From https://github.com/MelissaCarvajalCharpentier0/SO-ServicioDeLinux
+ * branch            Deployment -> FETCH_HEAD
+Already up to date.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+M	deploy.log
+Your branch is ahead of 'origin/Deployment' by 1 commit.
+  (use "git push" to publish your local commits)
+[Tue May 13 06:45:02 PM CST 2025] Updating Deployment...
+From https://github.com/MelissaCarvajalCharpentier0/SO-ServicioDeLinux
+ * branch            Deployment -> FETCH_HEAD
+Already up to date.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+M	deploy.log
+Your branch is ahead of 'origin/Deployment' by 1 commit.
+  (use "git push" to publish your local commits)
+[Tue May 13 06:46:02 PM CST 2025] Updating Deployment...
+From https://github.com/MelissaCarvajalCharpentier0/SO-ServicioDeLinux
+ * branch            Deployment -> FETCH_HEAD
+Already up to date.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+M	deploy.log
+Your branch is ahead of 'origin/Deployment' by 1 commit.
+  (use "git push" to publish your local commits)
+[Tue May 13 06:47:02 PM CST 2025] Updating Deployment...
+From https://github.com/MelissaCarvajalCharpentier0/SO-ServicioDeLinux
+ * branch            Deployment -> FETCH_HEAD
+Already up to date.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:48:01 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:49:06 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:50:01 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:51:02 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:52:01 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+M	deploy.sh
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:53:02 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+M	deploy.sh
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:54:02 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is ahead of 'origin/Deployment' by 1 commit.
+  (use "git push" to publish your local commits)
+[Tue May 13 06:55:02 PM CST 2025] Updating Deployment...
+From https://github.com/MelissaCarvajalCharpentier0/SO-ServicioDeLinux
+ * branch            Deployment -> FETCH_HEAD
+Already up to date.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:56:02 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:57:02 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:58:02 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 06:59:01 PM CST 2025] There is no changes on Deployment branch
+[Tue May 13 06:59:18 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is ahead of 'origin/Deployment' by 1 commit.
+  (use "git push" to publish your local commits)
+[Tue May 13 07:00:02 PM CST 2025] Updating Deployment...
+From https://github.com/MelissaCarvajalCharpentier0/SO-ServicioDeLinux
+ * branch            Deployment -> FETCH_HEAD
+Already up to date.
+/home/meli/expressExample/deploy.sh: line 17: /bin/: Is a directory
+[Tue May 13 07:00:48 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 07:01:01 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 07:02:02 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 07:03:01 PM CST 2025] There is no changes on Deployment branch
+M	deploy.log
+Your branch is up to date with 'origin/Deployment'.
+[Tue May 13 07:04:02 PM CST 2025] There is no changes on Deployment branch
